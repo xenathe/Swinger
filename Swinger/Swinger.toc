@@ -1,0 +1,7 @@
+## Interface: 11507
+## Title: Swinger
+## Notes: Minimalist independent melee and ranged swing timers.
+## Author: Swinger
+## Version: 0.1.0
+## SavedVariables: SwingerDB, XenSwingDB
+Swinger.lua

@@ -1,0 +1,6 @@
+1. Set Swinger/Swinger.toc ## Interface to your tested WoW Forever value (currently 11507, previously marked incompatible).
+2. Remove installed XenSwing folder and test fresh install of Swinger.
+3. Confirm /swinger, lock/click-through, all timer toggles and attack tracking.
+4. Choose author attribution and license before open-source publishing.
+5. Zip only the top-level Swinger folder for addon users / CurseForge.
+6. Tag GitHub release v0.1.0 and upload that validated addon ZIP.
